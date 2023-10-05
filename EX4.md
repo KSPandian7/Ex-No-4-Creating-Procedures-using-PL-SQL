@@ -36,7 +36,7 @@ select * from employee
 ### Output:
 
 #### Table:
-![OUTPUT](/dbmsex4op.png)
+![OUTPUT](/dbms4.png)
 
 
 ### Result:
