@@ -11,7 +11,33 @@
 6. Display the employee table
 
 ### Program:
+```sql
+DEVELOPED BY : KULASEKARAPANDIAN K
+REGISTER NO : 212222240052
+```
+```sql
+DELIMITER //
+CREATE PROCEDURE insert_employee()
+BEGIN
+insert into employee(empid,empname,dept,salary)
+values(101,'Kulasekarapandian','AIML',100000);
+insert into employee(empid,empname,dept,salary)
+values(102,'Aravind','AIDS',200000);
+insert into employee(empid,empname,dept,salary)
+values(103,'imthiyas','AIDS',300000);
+COMMIT;
+END // 
 
+
+call insert_employee();
+
+select * from employee
+```
 ### Output:
 
+#### Table:
+![OUTPUT](/dbmsex4op.png)
+
+
 ### Result:
+THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY.
