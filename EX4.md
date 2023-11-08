@@ -36,7 +36,7 @@ select * from employee
 ### Output:
 
 #### Table:
-![OUTPUT](/dbms4.png)
+![dbmsex4op](https://github.com/KSPandian7/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/113496887/95567760-7979-4bd2-b394-596b3525ea4b)
 
 
 ### Result:
